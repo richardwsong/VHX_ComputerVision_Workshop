@@ -5,3 +5,4 @@ This repository contains the full code and shell code that we will use for the V
 ```bash
 pip install streamlit 
 ```
+Full API documentation: https://westus.dev.cognitive.microsoft.com/docs/services/computer-vision-v3-1-ga/operations/56f91f2e778daf14a499f21b
